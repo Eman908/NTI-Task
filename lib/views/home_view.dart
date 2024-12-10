@@ -1,7 +1,5 @@
-import 'package:course/widgets/card.dart';
 import 'package:course/widgets/list_builder.dart';
 import 'package:flutter/material.dart';
-import 'package:course/models/list.dart';
 
 class HomeView extends StatelessWidget {
   const HomeView({super.key});
