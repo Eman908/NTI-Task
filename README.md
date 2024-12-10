@@ -1,16 +1,6 @@
 # course
 
-A new Flutter project.
+This is task for NTI Course
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# ScreenShot
+![Screenshot_2024 12 10_13 08 26 175](https://github.com/user-attachments/assets/b1b31489-d527-4d2c-aafc-df4d47da38fb)
