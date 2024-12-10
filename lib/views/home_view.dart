@@ -1,5 +1,7 @@
+import 'package:course/widgets/card.dart';
+import 'package:course/widgets/list_builder.dart';
 import 'package:flutter/material.dart';
-import 'package:course/widgets/cards_list.dart';
+import 'package:course/models/list.dart';
 
 class HomeView extends StatelessWidget {
   const HomeView({super.key});
@@ -14,11 +16,7 @@ class HomeView extends StatelessWidget {
         ),
         backgroundColor: Colors.blue,
       ),
-      body: const SingleChildScrollView(
-        scrollDirection: Axis.vertical,
-        padding: EdgeInsets.symmetric(horizontal: 16, vertical: 16),
-        child: CardsList(),
-      ),
+      body: const ListBuilder(),
     );
   }
 }

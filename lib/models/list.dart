@@ -1,0 +1,38 @@
+import 'package:course/models/style_model.dart';
+import 'package:flutter/material.dart';
+
+final List<StyleModel> st = [
+  StyleModel(color: Colors.green, title: 'A'),
+  StyleModel(color: Colors.blue, title: 'B'),
+  StyleModel(color: Colors.red, title: 'C'),
+  StyleModel(color: Colors.amber, title: 'D'),
+  StyleModel(color: Colors.purple, title: 'E'),
+  StyleModel(color: Colors.yellow, title: 'F'),
+  StyleModel(color: Colors.lightGreen, title: 'G'),
+  StyleModel(color: Colors.cyan, title: 'H'),
+  StyleModel(color: Colors.blueGrey, title: 'I'),
+  StyleModel(color: Colors.amberAccent, title: 'J'),
+  StyleModel(color: Colors.lightGreen, title: 'K'),
+  StyleModel(color: Colors.orange, title: 'L'),
+  StyleModel(color: Colors.pink, title: 'M'),
+  StyleModel(color: Colors.brown, title: 'N'),
+  StyleModel(color: Colors.grey, title: 'O'),
+  StyleModel(color: Colors.blueAccent, title: 'P'),
+  StyleModel(color: Colors.teal, title: 'Q'),
+  StyleModel(color: Colors.indigo, title: 'R'),
+  StyleModel(color: Colors.deepOrange, title: 'S'),
+  StyleModel(color: Colors.lime, title: 'T'),
+  StyleModel(color: Colors.redAccent, title: 'U'),
+  StyleModel(color: Colors.amber, title: 'V'),
+  StyleModel(color: Colors.brown, title: 'W'),
+  StyleModel(color: Colors.lightGreen, title: 'X'),
+  StyleModel(color: Colors.yellow, title: 'Y'),
+  StyleModel(color: Colors.orange, title: 'Z'),
+  StyleModel(color: Colors.deepOrangeAccent, title: '0'),
+  StyleModel(color: Colors.blueGrey, title: '1'),
+  StyleModel(color: Colors.deepOrangeAccent, title: '2'),
+  StyleModel(color: Colors.limeAccent, title: '3'),
+  StyleModel(color: Colors.pink, title: '4'),
+  StyleModel(color: Colors.red, title: '5'),
+];
+// TODO Implement this library.
